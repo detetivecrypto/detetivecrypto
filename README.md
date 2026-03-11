@@ -33,7 +33,7 @@ $ user
 ### GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-tx1r.vercel.app/api/top-langs/?username=detetivecrypto&layout=compact&bg_color=0d1117&title_color=1a56db&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-rhch.vercel.app/api/top-langs/?username=detetivecrypto&layout=compact&bg_color=0d1117&title_color=1a56db&text_color=ffffff"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180em" src="./image.png"/>
 </div>
